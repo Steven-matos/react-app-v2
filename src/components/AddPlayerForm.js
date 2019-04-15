@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 
 class AddPlayerForm extends Component {
 
-  state:{
+  state = {
     value:''
   };
 
