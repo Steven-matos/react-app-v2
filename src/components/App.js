@@ -41,15 +41,17 @@ class App extends Component {
   }
 
   handleAddPlayer = (name) => {
-    this.setState({
-      player: [
-        ...this.state.players,
+    this.setState( prevState => {
+      return {
+      players: [
+        ...prevState.players,
         {
           name,
           score: 0,
           id: this.prevPlayerId += 1
         }
       ]
+     };
     });
   }
 
