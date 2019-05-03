@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ScoreBoard-app/static/css/main.140df8a8.chunk.css",
+    "main.js": "/ScoreBoard-app/static/js/main.52972234.chunk.js",
+    "main.js.map": "/ScoreBoard-app/static/js/main.52972234.chunk.js.map",
+    "runtime~main.js": "/ScoreBoard-app/static/js/runtime~main.dacbde15.js",
+    "runtime~main.js.map": "/ScoreBoard-app/static/js/runtime~main.dacbde15.js.map",
+    "static/js/2.a5adb38c.chunk.js": "/ScoreBoard-app/static/js/2.a5adb38c.chunk.js",
+    "static/js/2.a5adb38c.chunk.js.map": "/ScoreBoard-app/static/js/2.a5adb38c.chunk.js.map",
+    "index.html": "/ScoreBoard-app/index.html",
+    "precache-manifest.b67054c065a4cbc66957b10e59e6f58b.js": "/ScoreBoard-app/precache-manifest.b67054c065a4cbc66957b10e59e6f58b.js",
+    "service-worker.js": "/ScoreBoard-app/service-worker.js",
+    "static/css/main.140df8a8.chunk.css.map": "/ScoreBoard-app/static/css/main.140df8a8.chunk.css.map"
+  }
+}
